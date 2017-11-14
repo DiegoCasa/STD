@@ -1,0 +1,11 @@
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\bin\Debug\netcoreapp2.0\std-1.0.deps.json
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\bin\Debug\netcoreapp2.0\std-1.0.runtimeconfig.json
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\bin\Debug\netcoreapp2.0\std-1.0.runtimeconfig.dev.json
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\bin\Debug\netcoreapp2.0\std-1.0.dll
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\bin\Debug\netcoreapp2.0\std-1.0.pdb
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\obj\Debug\netcoreapp2.0\std-1.0.csprojResolveAssemblyReference.cache
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\obj\Debug\netcoreapp2.0\std-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\obj\Debug\netcoreapp2.0\std-1.0.AssemblyInfoInputs.cache
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\obj\Debug\netcoreapp2.0\std-1.0.AssemblyInfo.cs
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\obj\Debug\netcoreapp2.0\std-1.0.dll
+C:\Users\Diego Casa\Desktop\std-1.0\std-1.0\obj\Debug\netcoreapp2.0\std-1.0.pdb
